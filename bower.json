@@ -1,0 +1,13 @@
+{
+  "name": "jeasyui-plugins",
+  "version": "1.3.4",
+  "dependencies": {
+    "jquery": "~1.9.1",
+    "jeasyui": "~1.3.2"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vsiguero/jeasyui-plugins"
+  }
+}
