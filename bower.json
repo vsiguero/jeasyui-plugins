@@ -3,7 +3,7 @@
   "version": "1.3.4",
   "dependencies": {
     "jquery": "~1.9.1",
-    "jeasyui": "~1.3.2"
+    "jeasyui": "git://github.com/vsiguero/jeasyui.git#master"
   },
 
   "repository": {
